@@ -4,7 +4,7 @@
 
 ## About Project
 <p> In this project we can make appointments from the doctor we chose. Modal structure used for appointment screen. Clicking the doctor you choose will open the appointment screen. We need to enter our name and choose a date from there. After saving it, the appointment will be shown under the doctor cards. We can make the appointments' status "consulted" by double-clicking it and we can delete the appointment.</p>
-<p><b>What technologies and topics were studied in this project?</b></p>
+<p><b>What technologies and topics were used in this project?</b></p>
 <ul>
     <li>React.js</li>
     <li>Props</li>
